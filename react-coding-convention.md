@@ -1,18 +1,18 @@
-# DOM TECH's REACT CODING CONVENTION
+# CSSOT's REACT CODING CONVENTION
 
-![Contributors](https://img.shields.io/github/contributors/DOM-Technology/coding-convention-and-guidelines?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/DOM-Technology/coding-convention-and-guidelines?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/DOM-Technology/coding-convention-and-guidelines?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/DOM-Technology/coding-convention-and-guidelines?style=for-the-badge) ![Pull Requests](https://img.shields.io/github/issues-pr/DOM-Technology/coding-convention-and-guidelines?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/CSSOT/cssot-coding-convention-and-guidelines?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/CSSOT/cssot-coding-convention-and-guidelines?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/CSSOT/cssot-coding-convention-and-guidelines?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/DOM-Technology/coding-convention-and-guidelines?style=for-the-badge) ![Pull Requests](https://img.shields.io/github/issues-pr/CSSOT/cssot-coding-convention-and-guidelines?style=for-the-badge)
 
 ---
 
 ## Introduction
 
-Outlines the purpose of this coding convention — to ensure consistency, readability, and maintainability across all React projects in **DOM TECH**.
+Outlines the purpose of this coding convention — to ensure consistency, readability, and maintainability across all React projects in **CSSOT**.
 
 ---
 
 ## Table of Contents
 
-- [DOM TECH's REACT CODING CONVENTION](#dom-techs-react-coding-convention)
+- [CSSOT's REACT CODING CONVENTION](#cssots-react-coding-convention)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [1. Basic Rules](#1-basic-rules)
@@ -150,5 +150,6 @@ Guidelines for writing and organizing tests using libraries like Jest or React T
 
 ## Change Log
 
+- Jul 24, 2025 - Structure initial
 ---
 
